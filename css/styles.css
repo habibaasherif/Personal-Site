@@ -49,6 +49,10 @@ a:hover{
   width: 30%;
   margin: auto;
 }
+.bee-proud{
+  width: 100px;
+  height: 100px;
+}
 .top-container{
   background-color: #EFFFFD;
   position: relative;
